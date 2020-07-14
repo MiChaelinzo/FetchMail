@@ -6,12 +6,12 @@
 ![](https://img.shields.io/github/license/MiChaelinzo/FetchMai)
 ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMiChaelinzo%2FFetchMail%2F)
 
-Email Client Software Project Java
+## Email Client Software Project Java
 
 
 ## [GBP-3.0 License](https://raw.githubusercontent.com/MiChaelinzo/CyberPunkNetrunner/master/LICENSE)
 
-## Follow ➤ [GitHub](https://github.com/MiChaelinzo) [Twitter](https://twitter.com/llmichaelinzoll) [Investing Instagram](https://www.instagram.com/llmichaelinzoll21/) [Instagram](https://www.instagram.com/fxcryptomaster/?hl=en)
+## Follow ➤ [GitHub](https://github.com/MiChaelinzo) [Twitter](https://twitter.com/llmichaelinzoll) [Instagram](https://www.instagram.com/llmichaelinzoll21/) [InvestingInstagram](https://www.instagram.com/fxcryptomaster/?hl=en)
 
 ## Checkout ➤ [Linktree](https://linktr.ee/MiChaelinzo)
 

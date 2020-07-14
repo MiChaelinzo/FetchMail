@@ -11,7 +11,9 @@ Email Client Software Project Java
 
 ## [GBP-3.0 License](https://raw.githubusercontent.com/MiChaelinzo/CyberPunkNetrunner/master/LICENSE)
 
-## Follow ➤ [GitHub](https://github.com/MiChaelinzo) [Twitter](https://twitter.com/llmichaelinzoll)
+## Follow ➤ [GitHub](https://github.com/MiChaelinzo) [Twitter](https://twitter.com/llmichaelinzoll) [Instagram](https://www.instagram.com/llmichaelinzoll21/) [Instagram](https://www.instagram.com/fxcryptomaster/?hl=en)
+
+## Checkout ➤ [Linktree](https://linktr.ee/MiChaelinzo)
 
 
 #### Contact Via Twitter or Email

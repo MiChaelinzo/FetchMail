@@ -6,6 +6,10 @@
 ![](https://img.shields.io/github/license/MiChaelinzo/FetchMai)
 ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMiChaelinzo%2FFetchMail%2F)
 
+![Image of FetchMail](https://github.com/MiChaelinzo/FetchMail/blob/master/FetchMailSamples/LoginScreenSample.PNG)
+![Image of FetchMail](https://github.com/MiChaelinzo/FetchMail/blob/master/FetchMailSamples/MessagesSample.PNG)
+
+
 #### Email Client Software Project Java
 
 
